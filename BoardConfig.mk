@@ -83,7 +83,7 @@ TW_CRYPTO_MNT_POINT := "/data"
 TW_CRYPTO_FS_OPTIONS := "nosuid,nodev,noatime,discard,noauto_da_alloc,data=ordered"
 TW_USE_TOOLBOX := true
 TW_EXTRA_LANGUAGES := true
-TW_DEFAULT_LANGUAGE := zh_CN
+TW_DEFAULT_LANGUAGE := en_US
 TW_NO_SCREEN_BLANK := true
 TW_NO_BATT_PERCENT := false
-TW_DEVICE_VERSION :=by Coolapk/Bilibili @lpxx50117
+TW_DEVICE_VERSION :=by SAMI 777   @124sami
